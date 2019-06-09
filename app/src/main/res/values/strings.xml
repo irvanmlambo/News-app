@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="generic_error">Oops! Something went wrong,\nPlease try again later…</string>
+    <string name="thumbnail">thumbnail</string>
+</resources>
